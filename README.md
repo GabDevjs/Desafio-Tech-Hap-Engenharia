@@ -1,24 +1,23 @@
-# hap-project
+# Project Hap-engenharia 
 
-## Project setup
-```
-npm install
-```
+## Resumo 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Esse é um projeto do desafio tech para o processo seletivo da Hap-engenharia o projeto é fazer um formulário para edição de um gráfico de uma seção transversal de via feria.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Bibliotecas e Frameworks
 
-### Lints and fixes files
-```
-npm run lint
-```
+* Vue.js --version (^2.6.14)
+* Vuetify --version (^2.6.0)
+* Vuex --version (^3.6.2)
+* fortawesome --version (^6.0.0)
+* @vue/cli-service --version (~5.0.0)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#
+
+### Tema Claro
+
+<img src="src/assets/Light-mode.png"/>
+
+### Tema Escuro
+
+<img src="src/assets/Dark-mode.png"/>
